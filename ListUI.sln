@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListUI", "ListUI\ListUI.csproj", "{A282B652-9D9A-4D0C-B28F-E4C0071C3304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A282B652-9D9A-4D0C-B28F-E4C0071C3304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A282B652-9D9A-4D0C-B28F-E4C0071C3304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A282B652-9D9A-4D0C-B28F-E4C0071C3304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A282B652-9D9A-4D0C-B28F-E4C0071C3304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED5097C-B3D6-4905-8F85-031E85113922}
+	EndGlobalSection
+EndGlobal
